@@ -234,7 +234,7 @@
   &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=GiulioTriggiani&show_icons=true&locale=en"
-    alt="gianwario"
+    alt="GiulioTriggiani"
   />
 </p>
 
