@@ -7,7 +7,7 @@
 - 🌐 See more on my <a href="website" target="_blank">website</a>
 -->
 
-<h3 align="left">Development:</h3>
+<h3 align="left">💻 Development:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
@@ -91,7 +91,7 @@
   </a>
 </p>
 
-<h3 align = "left">Tool & Softwares:</h3>
+<h3 align = "left">🛠 Tool & Softwares:</h3>
 <p align = "left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
@@ -218,6 +218,15 @@
       height="40"
     />
   </a>
+</p>
+
+<h3 align = "left">📈GitHub Analytics:</h3>
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=GiulioTriggiani&show_icons=true&locale=en"
+    alt="gianwario"
+  />
 </p>
 
 <!--
