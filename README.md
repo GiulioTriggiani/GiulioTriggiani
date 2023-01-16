@@ -231,11 +231,12 @@
   </a>
 </p>
 
+<!-- Aggiunto sigma-five per fix errore -->
 <h3 align = "left">📈GitHub Analytics:</h3>
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=GiulioTriggiani&show_icons=true&locale=en"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=GiulioTriggiani&show_icons=true&locale=en"
     alt="GiulioTriggiani"
   />
 </p>
