@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi 👋, I'm Giulio Triggiani </h1>
 
-<!-- <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a> -->
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 - 🎓 I have obtained a Bachelor's degree in Computer Science at the University of Salerno.
 - 📚 I'm attending the Master Degree in Computer Science at the University of Salerno, in particular the IT-Security track.
