@@ -268,3 +268,17 @@
     /></a>
 </p>
 -->
+
+
+<h1 align="center">Hi 👋, I'm Giulio Triggiani</h1>
+<h3 align="center">A passionate IT student from Italy</h3>
+
+- 🌱 I’m currently learning **Security**
+
+- 💬 Ask me about **anyting**
+
+- 📫 How to reach me **giuliotriggiani1@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
