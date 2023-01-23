@@ -246,6 +246,15 @@
   />
 </p>
 
+<p align="center">
+  &nbsp;<img
+    align="center"
+    width="5%"
+    src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true"
+    alt="GiulioTriggiani"
+  />
+</p>
+
 <!--
 <h3 align = "left">Connect with me:</h3>
 <p align="left">
