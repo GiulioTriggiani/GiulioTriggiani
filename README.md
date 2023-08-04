@@ -1,6 +1,6 @@
 <!-- <h1 align = "center"> Hi 👋, I'm Giulio Triggiani </h1> -->
 <h1 align = "center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+There!+👋;I'm+Giulio+Triggiani....;Nice+to+meet+you!&font=Fira+Code&center=true&width=440&height=45&color=9831F7&vCenter=true&pause=1000&size=22">
   </a>
 </h1>
@@ -101,6 +101,15 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+      alt="dart"
       width="40"
       height="40"
     />
