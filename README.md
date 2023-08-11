@@ -243,6 +243,51 @@
       height="40"
     />
   </a>
+
+  <a href="https://www.kali.org/">
+    <img
+      src="https://upload.vectorlogo.zone/logos/kali/images/4f107199-98a3-43c2-9d1f-19af3082b59b.svg"
+      alt="kali"
+      width="60"
+      height="60"
+    />
+  </a>
+
+  <a href="https://www.wireshark.org/download.html">
+    <img
+      src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"
+      alt="wireshark"
+      width="60"
+      height="60"
+    />
+  </a>
+
+  <a href="https://www.maltego.com/">
+    <img
+      src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Horizontal-Greyblue.svg"
+      alt="maltego"
+      width="80"
+      height="80"
+    />
+  </a>
+
+  <a href="https://nmap.org/">
+    <img
+      src="https://nmap.org/images/sitelogo-nmap.svg"
+      alt="nmap"
+      width="60"
+      height="60"
+    />
+  </a>
+
+  <a href="https://www.metasploit.com/">
+    <img
+      src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg"
+      alt="metasploit"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <!-- Aggiunto sigma-five per fix errore -->
