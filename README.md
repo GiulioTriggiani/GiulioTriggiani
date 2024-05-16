@@ -165,7 +165,7 @@
   
   <a href="https://www.jetbrains.com/idea/">
     <img
-      src="https://img.icons8.com/color/512/intellij-idea.svg"
+      src="https://upload.vectorlogo.zone/logos/jetbrains_idea/images/3d040f7f-9ee5-4eff-975f-4d7f89c71974.svg"
       alt="intellij"
       width="40"
       height="40"
@@ -203,15 +203,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
       alt="gitlab"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
       width="40"
       height="40"
     />
